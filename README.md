@@ -27,21 +27,35 @@ A simple Java console application that allows users to input integers and keeps 
 ## 🧪 Sample Output
 
 Press 1 to continue & 0 to stop
+<br>
 1
+<br>
 Enter your number :
+<br>
 5
+<br>
 Press 1 to continue & 0 to stop
+<br>
 1
+<br>
 Enter your number :
+<br>
 0
+<br>
 Press 1 to continue & 0 to stop
+<br>
 1
+<br>
 Enter your number :
+<br>
 -3
+<br>
 Press 1 to continue & 0 to stop
+<br>
 0
-Positives : 1
-Negatives : 1
+<br>
+Positives : 1<br>
+Negatives : 1<br>
 Zeros : 1
 
 
